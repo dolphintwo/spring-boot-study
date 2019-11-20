@@ -1,10 +1,10 @@
-package com.dolphintwo.helloworld;
+package com.dolphintwo.helloworld.service;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SpringBootStudyHelloworldApplicationTests {
+class ServiceApplicationTests {
 
 	@Test
 	void contextLoads() {

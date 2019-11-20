@@ -1,13 +1,13 @@
-package com.dolphintwo.helloworld;
+package com.dolphintwo.helloworld.service;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SpringBootStudyHelloworldApplication {
+public class ServiceApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SpringBootStudyHelloworldApplication.class, args);
+		SpringApplication.run(ServiceApplication.class, args);
 	}
 
 }
